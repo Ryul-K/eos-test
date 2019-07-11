@@ -1,0 +1,16 @@
+{
+  "name": "eos-test",
+  "version": "1.0.0",
+  "main": "getAccount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eosjs": "^16.0.9",
+    "eosjs-api": "^7.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
